@@ -13,7 +13,7 @@
 [ссылка](https://gist.github.com/Jekins/2bf2d0638163f1294637)
 
 ![изображение](https://avatars.mds.yandex.net/i?id=1731001905ea43bf0a46aeb2d5542c454db2754f-10239549-images-thumbs&n=13)
-)
+
 
 код 
 
