@@ -12,7 +12,8 @@
 
 [ссылка](https://gist.github.com/Jekins/2bf2d0638163f1294637)
 
-![изображение](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37fV_pQoAMkEC5B8j_uSQmVAFwlAfxfHtChuyzOkV-RGck6rTFYzhiIwep1Bvldu98MQ&usqp=CAU)
+![изображение](![image](https://github.com/user-attachments/assets/42ca2eda-b476-404b-af59-2421f71dc533)
+)
 
 код 
 
