@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.l1{
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+    background-color: #E9E9E9;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+
+}
+.l1_1{
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: 120px;
+    width: 120px;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #5D5FEF;
+    margin-bottom: 20px;
+}
+.l1_2{
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: 120px;
+    width: 120px;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #5D5FEF;
+    margin-bottom: 20px;
+
+}
+.l1_3{
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: 120px;
+    width: 120px;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #5D5FEF;
+    margin-bottom: 20px;
+
+}
+.block .l1_1{
+    align-self: flex-start;
+}
+.block .l1_2{
+    align-self: flex-end;
+}
+.block .l1_3{
+    align-self: flex-start;
+}
+.block{
+    display: flex;
+    flex-direction: column;
+    width:360px;
+}
+.B1{
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    background-color: slategrey;
+    border-bottom: 2px solid black;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.B2{
+    border-top: solid white 4px;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    background-color:snow;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.txt_img{
+    height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.img1{
+    display: flex;
+    height: 400px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    border: solid 1px black;
+}
+body{
+    font-family: "Inter", sans-serif;
+    margin: 0;
+}
